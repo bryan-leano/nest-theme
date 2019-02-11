@@ -52,6 +52,35 @@ body {
   padding-right: .8rem;
 }
 
+/*================== LANDING PAGE ====================*/
+
+.home-inner {
+  background-image: url('img/landing.png');
+}
+
+.caption {
+  width: 100%;
+  max-width: 100%;
+  position: absolute;
+  top: 40%;
+  z-index: 1;
+}
+
+.caption h3 {
+  color: white;
+  font-size: 2.4rem;
+  text-transform: uppercase;
+  padding-bottom: 2rem;
+}
+
+.btn {
+  border-width: medium;
+  border-radius: 0;
+  padding: .5rem 1.1rem;
+  font-size: .9rem;
+  text-transform: uppercase;
+}
+
 /*============ BOOTSTRAP BREAK POINTS:
 
 Extra small (xs) devices (portrait phones, less than 576px)
