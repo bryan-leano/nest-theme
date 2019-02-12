@@ -151,6 +151,32 @@ h3.heading {
   overflow: hidden;
 }
 
+/*================== TESTIMONIALS SECTION ====================*/
+
+.card {
+  margin: 0 1rem;
+  border-radius: 0;
+}
+
+.card-image-top {
+  border-radius: 0;
+}
+
+.card h4 {
+  font-weight: 700;
+}
+
+.card h5 {
+  color: #00B3FF;
+}
+
+.card p {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+
+
 /*============ BOOTSTRAP BREAK POINTS:
 
 Extra small (xs) devices (portrait phones, less than 576px)
